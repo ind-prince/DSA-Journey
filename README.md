@@ -27,4 +27,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ind-prince/DSA-Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ind-prince/DSA-Journey/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/ind-prince/DSA-Journey/tree/master/0049-group-anagrams) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/ind-prince/DSA-Journey/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/ind-prince/DSA-Journey/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/ind-prince/DSA-Journey/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
