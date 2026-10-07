@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ind-prince/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/ind-prince/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [0796-rotate-string](https://github.com/ind-prince/DSA-Journey/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ind-prince/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ind-prince/DSA-Journey/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
