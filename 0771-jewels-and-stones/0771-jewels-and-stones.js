@@ -6,13 +6,25 @@
 var numJewelsInStones = function(jewels, stones) {
     let count = 0;
 
-    for(let i = 0; i < stones.length; i++){
+    let set = new Set(jewels);
 
-        if(jewels.includes(stones[i])){
+    for(let i = 0; i < stones.length; i++){
+        if(set.has(stones[i])){
             ++count;
         }
     }
 
-    return count;
-    
+
+
+
+    // Alternative approach
+
+    // for(let i = 0; i < stones.length; i++){
+
+    //     if(jewels.includes(stones[i])){
+    //         ++count;
+    //     }
+    // }
+
+    return count;    
 };
