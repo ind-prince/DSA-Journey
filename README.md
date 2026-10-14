@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ind-prince/DSA-Journey/tree/master/0049-group-anagrams) |
 | [1528-shuffle-string](https://github.com/ind-prince/DSA-Journey/tree/master/1528-shuffle-string) |
+| [2942-find-words-containing-character](https://github.com/ind-prince/DSA-Journey/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/ind-prince/DSA-Journey/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/ind-prince/DSA-Journey/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/ind-prince/DSA-Journey/tree/master/1528-shuffle-string) |
+| [2942-find-words-containing-character](https://github.com/ind-prince/DSA-Journey/tree/master/2942-find-words-containing-character) |
 ## Sorting
 |  |
 | ------- |
