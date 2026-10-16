@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/ind-prince/DSA-Journey/tree/master/0796-rotate-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ind-prince/DSA-Journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/ind-prince/DSA-Journey/tree/master/1528-shuffle-string) |
+| [1903-largest-odd-number-in-string](https://github.com/ind-prince/DSA-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2942-find-words-containing-character](https://github.com/ind-prince/DSA-Journey/tree/master/2942-find-words-containing-character) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ind-prince/DSA-Journey/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ind-prince/DSA-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ind-prince/DSA-Journey/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/ind-prince/DSA-Journey/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -109,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ind-prince/DSA-Journey/tree/master/0013-roman-to-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/ind-prince/DSA-Journey/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
