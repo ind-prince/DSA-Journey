@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ind-prince/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ind-prince/DSA-Journey/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/ind-prince/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/ind-prince/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ind-prince/DSA-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ind-prince/DSA-Journey/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ind-prince/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ind-prince/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/ind-prince/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/ind-prince/DSA-Journey/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/ind-prince/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/ind-prince/DSA-Journey/tree/master/0796-rotate-string) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ind-prince/DSA-Journey/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/ind-prince/DSA-Journey/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
