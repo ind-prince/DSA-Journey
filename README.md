@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ind-prince/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ind-prince/DSA-Journey/tree/master/0049-group-anagrams) |
 | [1528-shuffle-string](https://github.com/ind-prince/DSA-Journey/tree/master/1528-shuffle-string) |
 | [2942-find-words-containing-character](https://github.com/ind-prince/DSA-Journey/tree/master/2942-find-words-containing-character) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ind-prince/DSA-Journey/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ind-prince/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ind-prince/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ind-prince/DSA-Journey/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ind-prince/DSA-Journey/tree/master/0125-valid-palindrome) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ind-prince/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ind-prince/DSA-Journey/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
