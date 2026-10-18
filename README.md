@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/ind-prince/DSA-Journey/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/ind-prince/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/ind-prince/DSA-Journey/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ind-prince/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ind-prince/DSA-Journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/ind-prince/DSA-Journey/tree/master/1528-shuffle-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ind-prince/DSA-Journey/tree/master/1903-largest-odd-number-in-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ind-prince/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ind-prince/DSA-Journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/ind-prince/DSA-Journey/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -120,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ind-prince/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/ind-prince/DSA-Journey/tree/master/1903-largest-odd-number-in-string) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ind-prince/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ind-prince/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
