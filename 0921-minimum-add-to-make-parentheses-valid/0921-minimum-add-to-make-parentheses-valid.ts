@@ -14,6 +14,5 @@ function minAddToMakeValid(s: string): number {
         }
     }
 
-    // used for remove the minus
     return open + needToAdd;
 };
