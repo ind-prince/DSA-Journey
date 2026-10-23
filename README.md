@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ind-prince/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ind-prince/DSA-Journey/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ind-prince/DSA-Journey/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ind-prince/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1528-shuffle-string](https://github.com/ind-prince/DSA-Journey/tree/master/1528-shuffle-string) |
 | [2942-find-words-containing-character](https://github.com/ind-prince/DSA-Journey/tree/master/2942-find-words-containing-character) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ind-prince/DSA-Journey/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ind-prince/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ind-prince/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
