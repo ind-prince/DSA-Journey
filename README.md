@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ind-prince/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ind-prince/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/ind-prince/DSA-Journey/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/ind-prince/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [1528-shuffle-string](https://github.com/ind-prince/DSA-Journey/tree/master/1528-shuffle-string) |
 | [2942-find-words-containing-character](https://github.com/ind-prince/DSA-Journey/tree/master/2942-find-words-containing-character) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ind-prince/DSA-Journey/tree/master/3042-count-prefix-and-suffix-pairs-i) |
