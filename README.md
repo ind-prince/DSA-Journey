@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ind-prince/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ind-prince/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ind-prince/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/ind-prince/DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ind-prince/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ind-prince/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [1528-shuffle-string](https://github.com/ind-prince/DSA-Journey/tree/master/1528-shuffle-string) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ind-prince/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/ind-prince/DSA-Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ind-prince/DSA-Journey/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ind-prince/DSA-Journey/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/ind-prince/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ind-prince/DSA-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ind-prince/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ind-prince/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ind-prince/DSA-Journey/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ind-prince/DSA-Journey/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ind-prince/DSA-Journey/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/ind-prince/DSA-Journey/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/ind-prince/DSA-Journey/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -145,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ind-prince/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ind-prince/DSA-Journey/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ind-prince/DSA-Journey/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
