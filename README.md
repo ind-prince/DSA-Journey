@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ind-prince/DSA-Journey/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/ind-prince/DSA-Journey/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ind-prince/DSA-Journey/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/ind-prince/DSA-Journey/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ind-prince/DSA-Journey/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ind-prince/DSA-Journey/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ind-prince/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ind-prince/DSA-Journey/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
